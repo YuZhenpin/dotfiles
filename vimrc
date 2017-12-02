@@ -1,0 +1,10 @@
+set number
+set relativenumber
+set nocompatible
+set hlsearch
+set mouse=a
+set ruler
+set ignorecase
+set tabstop=2
+set shiftwidth=2
+syntax on
